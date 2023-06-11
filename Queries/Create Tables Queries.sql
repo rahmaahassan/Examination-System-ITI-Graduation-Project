@@ -1,5 +1,4 @@
 -- Create the database
-
 CREATE DATABASE ITIGP
 
 -- Topic table
