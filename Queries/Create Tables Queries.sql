@@ -2,7 +2,6 @@
 CREATE DATABASE ITIGP
 
 -- Topic table
-
 CREATE TABLE Topic (
     Topic_Id INT PRIMARY KEY,
 	Topic_Name VARCHAR(30)
